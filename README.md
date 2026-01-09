@@ -9,7 +9,7 @@ This tool processes website analytics data to provide insights into user behavio
 
 <img width="1247" height="389" alt="image" src="https://github.com/user-attachments/assets/8c8d71f7-7145-45fc-87b1-e34032d01b70" />
 <img width="961" height="429" alt="image" src="https://github.com/user-attachments/assets/263b4bc2-93fe-4555-8a77-dcfc39fdc3f4" />
-<img width="797" height="343" alt="image" src="https://github.com/user-attachments/assets/feeefc66-0292-4cd5-9401-c39449554663" />
+<img width="1092" height="328" alt="image" src="https://github.com/user-attachments/assets/c2ecb117-c433-4a91-a3e3-55e5a5d75d28" />
 
 
 
