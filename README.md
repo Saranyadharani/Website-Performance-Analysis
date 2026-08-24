@@ -2,7 +2,7 @@
 
 A comprehensive analytical tool for analyzing website traffic and engagement metrics using time series analysis and statistical modeling.
 
-## 📊 Overview
+##Overview
 
 This tool processes website analytics data to provide insights into user behavior, engagement patterns, and traffic forecasting. It transforms raw analytics data into actionable insights through various visualizations and predictive modeling.
 
@@ -14,7 +14,7 @@ This tool processes website analytics data to provide insights into user behavio
 
 
 
-## 🚀 Features
+## Features
 
 ### Data Processing & Cleaning
 - **Automatic Header Correction**: Detects and fixes header rows in data
